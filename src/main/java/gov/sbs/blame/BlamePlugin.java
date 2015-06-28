@@ -83,7 +83,7 @@ public class BlamePlugin extends AbstractMavenReport {
 	}
 
 	public String getOutputName() {
-		return "Blame.html";
+		return "Blame";
 	}
 
 	@Override
